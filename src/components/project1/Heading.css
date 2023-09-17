@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+   background-color:rgb(53, 53, 100);
+  height: 93px;
+  
+}
+.heading ul{
+    list-style: none;
+    font-size:20px;
+    font-family:'lora',serif;
+    margin-left: 200px;
+   
+  
+}
+    .heading nav ul li{
+        display: inline-block;
+        margin-top: 30px;
+        margin-left:60px;
+        font-weight:60px;
+        padding: 3px;
+       
+    }
+
+.heading nav ul li a{
+text-decoration: none;
+color:white;
+}
+.heading nav ul li a:hover{
+     background-color: rgb(98, 98, 121);
+     border-radius: 5px;
+     padding: 5px;
+}
+.h2tag{
+    float: left;
+    margin: 30px;
+    color: white;
+}

@@ -1,0 +1,48 @@
+
+.box{
+    position:relative;
+    margin: 70px;
+ 
+}
+h2{
+    padding: 10px;
+    
+}
+.b1{
+    width: 200px;
+    height: 350px;
+    border: black solid ;
+    left: 100px;
+    position:absolute;
+    background-color:rgb(53, 53, 100);
+    
+
+   
+}
+.b2{
+    width: 200px;
+    height: 350px;
+    border: black solid ;
+    position: absolute;
+    left: 400px;
+    background-color:rgb(53, 53, 100);
+    
+   
+}
+.b3{
+    width: 200px;
+    height: 350px;
+    border: black solid ;
+    position: absolute;
+    left: 700px;
+    background-color:rgb(53, 53, 100);
+}
+.b4{
+    width: 200px;
+    height: 350px;
+    border: black solid ;
+    position: absolute;
+    left: 1000px;
+    background-color:rgb(53, 53, 100);
+   
+}
